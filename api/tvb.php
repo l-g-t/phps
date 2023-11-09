@@ -12,8 +12,7 @@ J2_1080P,https://php9.vercel.app/tvb.php?id=1
 事件直播頻道1_360P,https://php9.vercel.app/tvb.php?id=9
 事件直播頻道2,https://php9.vercel.app/tvb.php?id=10
 事件直播頻道2_360P,https://php9.vercel.app/tvb.php?id=11
-*/
-/*
+
     GeJI 
     .php?id=0 翡翠台
     .php?id=1 J2
